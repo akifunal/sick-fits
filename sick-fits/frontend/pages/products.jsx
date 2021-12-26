@@ -1,3 +1,3 @@
-const products = () => <div>Products page</div>;
+const products = () => <p>Products page</p>;
 
 export default products;
