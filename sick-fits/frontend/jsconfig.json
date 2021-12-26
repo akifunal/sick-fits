@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"checkJs": true,
+		"jsx": "preserve",
+		"baseUrl": ".",
+		"paths": {
+			"@components/*": ["components/*"],
+			"@lib/*": ["lib/*"],
+			"@pages/*": ["pages/*"]
+		}
+	}
+}
